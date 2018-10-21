@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ctctctctct
+=======
+ct1
+ct2
+>>>>>>> dev
